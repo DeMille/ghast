@@ -11,7 +11,7 @@ Status: WIP
 - [ ] cast.framework - mostly implemented, completely untested
 
 Still relatively usable provided you aren't using the more recent `cast.framework`.  
-You can look an example w/ [sample.js](sample): `node sample.js [url]`
+You can look an example w/ [sample.js](sample.js): `node sample.js [url]`
 
 [sample]: https://github.com/DeMille/ghast/blob/master/sample.js
 
